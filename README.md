@@ -55,7 +55,7 @@ This forked plugin adds support for detecting when notifications are dismissed b
 Listen for the `localNotificationDismissed` event to be notified when a user swipes away a notification:
 
 ```typescript
-import { LocalNotifications } from '@capacitor/local-notifications-dismiss';
+import { LocalNotifications } from 'capacitor-local-notifications-dismiss';
 
 // Initialize the dismiss listener
 const handle = await LocalNotifications.addListener('localNotificationDismissed', (event) => {
