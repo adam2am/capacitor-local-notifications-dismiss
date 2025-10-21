@@ -1,6 +1,6 @@
-# @capacitor/local-notifications-dismiss
+# capacitor-local-notifications-dismiss
 
-The Local Notifications API with dismiss detection support - provides a way to schedule device notifications locally with the ability to detect when notifications are dismissed.
+The Local Notifications API with dismiss detection support on android - provides a way to schedule device notifications locally with the ability to detect when notifications are dismissed.
 
 This is a **forked version** of `@capacitor/local-notifications` that adds Android dismiss event tracking.
 
