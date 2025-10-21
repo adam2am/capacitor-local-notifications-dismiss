@@ -7,7 +7,7 @@ This is a **forked version** of `@capacitor/local-notifications` that adds Andro
 ## Install
 
 ```bash
-npm install @capacitor/local-notifications-dismiss
+npm install capacitor-local-notifications-dismiss
 npx cap sync
 ```
 
